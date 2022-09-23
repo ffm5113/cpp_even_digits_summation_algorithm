@@ -71,9 +71,7 @@ int main()
 *
 * The sum of the even digits
 * within the integer is 16.
-*/
-
-/*
+*
 * CONSOLE OUTPUT # 2
 * Even Digits Algorithm
 * By Forrest Moulin
