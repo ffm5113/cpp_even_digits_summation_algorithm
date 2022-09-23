@@ -36,6 +36,7 @@ int main()
 		// Find the last digit in the integer
 		// Remainder of the modulus of 10 will be the last digit
 		digit = inputInt % 10;
+		
 		// If the digit is even
 		if (digit % 2 == 0)
 		{
